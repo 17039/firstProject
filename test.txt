@@ -1,4 +1,5 @@
 Hello
 This is a test of my Git skills
-5 9 17
 8/2/2016
+
+Should be connected to iPhone and Mac
