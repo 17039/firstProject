@@ -13,7 +13,7 @@ playerX = pos.x
 playerY = pos.y
 playerZ = pos.z
 
-time.sleep(4)
+time.sleep(3)
 
 #mc.player.setTilePos(x,y,z)
 
